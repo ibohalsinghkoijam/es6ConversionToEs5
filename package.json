@@ -1,0 +1,24 @@
+{
+  "name": "es6ConversionToEs5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "babel src -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ibohalsinghkoijam/es6ConversionToEs5.git"
+  },
+  "keywords": [],
+  "author": "KOIJAM IBOHAL SINGH (http://koijamishika.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ibohalsinghkoijam/es6ConversionToEs5/issues"
+  },
+  "homepage": "https://github.com/ibohalsinghkoijam/es6ConversionToEs5#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-latest": "^6.24.1"
+  }
+}
